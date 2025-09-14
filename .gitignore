@@ -1,0 +1,10 @@
+# Ignore virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Ignore output folders
+outputs/
